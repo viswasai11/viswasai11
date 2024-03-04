@@ -19,7 +19,7 @@ I am a recent graduate of B.com(Computer Applications) with a strong interest in
 - 🛠 &nbsp; I’m currently learning Tableau, and Power BI.                                                                   
 - 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/viswasai11)
 - 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau
-- 📫 &nbsp; How to reach me eadityar@gmail.com
+- 📫 &nbsp; How to reach me viswasai.goudampally@gmail.com
 - 🧢 &nbsp; Intrested in AI and LLM<br>
 
 ![](https://komarev.com/ghpvc/?username=viswasai11&label=PROFILE+VIEWS)
