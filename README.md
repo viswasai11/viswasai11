@@ -25,7 +25,7 @@ I am a recent graduate of B.Com (Computer Applications) with a strong interest i
 - 🌱 &nbsp; Intrested in AI and LLM<br>
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswaraditya5&show_icons=true&locale=en&layout=compact" alt="Viswasai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viswasai11&show_icons=true&locale=en&layout=compact" alt="Viswasai" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=viswasai11&theme=default)](https://git.io/streak-stats)<br/>
 
