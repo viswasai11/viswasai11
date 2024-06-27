@@ -20,7 +20,7 @@ I am a recent graduate of B.Com (Computer Applications) with a strong interest i
 ## Technological Aspects:
 - 🛠 &nbsp; I’m currently learning Power BI. 
 - 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/viswasai11?tab=repositories)
-- 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau
+- 💬 &nbsp; Ask me about Excel, SQL, Python, Power BI, Machine Learning, Deep Learning
 - 📫 &nbsp; How to reach me viswasai.goudampally@gmail.com
 - 🌱 &nbsp; Intrested in AI and LLM<br>
 
